@@ -48,7 +48,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone ""
+    git clone "https://github.com/toanco123/music-app.git"
    ```
 
 2. Change directory to the project directory
