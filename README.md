@@ -1,6 +1,8 @@
-# Project Lyrics
+# Project Music (React18 + Tailwind + Redux + RapidAPI)
 
 Develop an elegant React.js Music Application.
+
+⭐RapidAPI Shazam Core API- https://rapidapi.com/tipsters/api/shazam-core?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
 # Contributing
 
@@ -54,7 +56,7 @@ To set up a development environment, please follow these steps:
 2. Change directory to the project directory
 
    ```shell
-   cd nameProject
+   cd music-app
    ```
 
 3. Install the dependencies
